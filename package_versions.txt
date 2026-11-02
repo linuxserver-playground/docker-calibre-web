@@ -26,7 +26,7 @@ anstyle-parse                       1.0.0                               rust-cra
 anstyle-query                       1.1.5                               rust-crate                       
 anstyle-wincon                      3.0.11                              rust-crate                       
 anyhow                              1.0.104                             rust-crate                       
-anyio                               4.15.1                              python                           
+anyio                               4.16.0                              python                           
 apple-flat-package                  0.20.0                              rust-crate                       
 apple-xar                           0.20.0                              rust-crate                       
 apscheduler                         3.11.3                              python                           
@@ -113,7 +113,7 @@ debpkg                              0.6.0                               rust-cra
 defmt                               1.1.1                               rust-crate                       
 defmt-macros                        1.1.1                               rust-crate                       
 defmt-parser                        1.0.0                               rust-crate                       
-deprecated                          3.0.0                               python                           
+deprecated                          3.0.1                               python                           
 der                                 0.7.10                              rust-crate                       
 deranged                            0.5.8                               rust-crate                       
 diffutils                           1:3.10-1ubuntu0.1                   deb                              
@@ -182,7 +182,7 @@ gnupg-utils                         2.4.4-2ubuntu17.6                   deb
 golang.org/x/sync                   v0.0.0-20210220032951-036812b2e83c  go-module                        
 golang.org/x/text                   v0.3.6                              go-module                        
 goodreads                           0.3.2                               python                           
-google-api-core                     2.43.1                              python                           
+google-api-core                     2.43.2                              python                           
 google-api-python-client            2.199.0                             python                           
 google-auth                         2.62.0                              python                           
 google-auth-httplib2                0.4.4                               python                           
@@ -453,12 +453,12 @@ nt-time                             0.8.1                               rust-cra
 num-conv                            0.2.2                               rust-crate                       
 num-traits                          0.2.19                              rust-crate                       
 oauth2client                        4.1.3                               python                           
-oauthlib                            4.0.0                               python                           
+oauthlib                            4.0.1                               python                           
 once_cell                           1.21.4                              rust-crate                       
 once_cell_polyfill                  1.70.2                              rust-crate                       
 openssl                             3.0.13-0ubuntu3.16                  deb                              
 openssl-probe                       0.2.1                               rust-crate                       
-opentelemetry-api                   1.45.1                              python                           
+opentelemetry-api                   1.45.2                              python                           
 option-ext                          0.2.0                               rust-crate                       
 ordered-set                         4.1.0                               python                           
 outcome                             1.3.0.post0                         python                           
@@ -660,7 +660,7 @@ tower-layer                         0.3.3                               rust-cra
 tower-service                       0.3.3                               rust-crate                       
 tracing                             0.1.44                              rust-crate                       
 tracing-core                        0.1.36                              rust-crate                       
-trio                                0.34.0                              python                           
+trio                                0.35.0                              python                           
 trio-websocket                      0.12.2                              python                           
 truststore                          0.10.4                              python                           
 try-lock                            0.2.5                               rust-crate                       
@@ -727,10 +727,10 @@ windows_x86_64_gnullvm              0.52.6                              rust-cra
 windows_x86_64_msvc                 0.52.6                              rust-crate                       
 winnow                              1.0.4                               rust-crate                       
 wordninja                           2.0.0                               python                           
-wrapt                               2.5.1                               python                           
+wrapt                               2.5.2                               python                           
 writeable                           0.6.4                               rust-crate                       
 wsproto                             1.3.2                               python                           
-wtforms                             3.3.1                               python                           
+wtforms                             3.3.2                               python                           
 x11-common                          1:7.7+23ubuntu3                     deb                              
 x509-certificate                    0.24.0                              rust-crate                       
 xattr                               1.6.1                               rust-crate                       
