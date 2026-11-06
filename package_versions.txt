@@ -30,8 +30,8 @@ anyio                               4.16.0                              python
 apple-flat-package                  0.20.0                              rust-crate                       
 apple-xar                           0.20.0                              rust-crate                       
 apscheduler                         3.11.3                              python                           
-apt                                 2.8.3                               deb                              
-apt-utils                           2.8.3                               deb                              
+apt                                 2.8.4ubuntu0.1                      deb                              
+apt-utils                           2.8.4ubuntu0.1                      deb                              
 ar                                  0.9.0                               rust-crate                       
 arrayvec                            0.7.8                               rust-crate                       
 arrow                               1.4.0                               python                           
@@ -68,7 +68,7 @@ bzip2-sys                           0.1.13+1.0.8                        rust-cra
 ca-certificates                     20260816ubuntu0.24.04.1             deb                              
 catatonit                           0.1.7-1                             deb                              
 cc                                  1.6.0                               rust-crate                       
-certifi                             2026.10.19                          python                           
+certifi                             2026.10.23                          python                           
 certifi                             2026.5.20                           python                           
 cfb                                 0.7.3                               rust-crate                       
 cffi                                2.1.1                               python                           
@@ -86,7 +86,7 @@ cli                                 UNKNOWN                             binary
 cli-32                              UNKNOWN                             binary                           
 cli-64                              UNKNOWN                             binary                           
 cli-arm64                           UNKNOWN                             binary                           
-click                               8.5.0                               python                           
+click                               8.5.1                               python                           
 colorchoice                         1.0.5                               rust-crate                       
 combine                             4.6.8                               rust-crate                       
 comicapi                            3.2.0                               python                           
@@ -122,7 +122,7 @@ directories                         6.0.0                               rust-cra
 dirmngr                             2.4.4-2ubuntu17.6                   deb                              
 dirs-sys                            0.5.0                               rust-crate                       
 displaydoc                          0.2.7                               rust-crate                       
-distlib                             0.4.2                               python                           
+distlib                             0.4.4                               python                           
 distro                              1.9.0                               python                           
 docutils                            0.22.4                              python                           
 dpkg                                1.22.6ubuntu6.6                     deb                              
@@ -181,9 +181,9 @@ gnupg-utils                         2.4.4-2ubuntu17.6                   deb
 golang.org/x/sync                   v0.0.0-20210220032951-036812b2e83c  go-module                        
 golang.org/x/text                   v0.3.6                              go-module                        
 goodreads                           0.3.2                               python                           
-google-api-core                     2.43.2                              python                           
+google-api-core                     2.44.0                              python                           
 google-api-python-client            2.199.0                             python                           
-google-auth                         2.62.0                              python                           
+google-auth                         2.62.1                              python                           
 google-auth-httplib2                0.4.4                               python                           
 google-auth-oauthlib                1.2.4                               python                           
 googleapis-common-protos            1.76.0                              python                           
@@ -228,8 +228,7 @@ icu_properties                      2.3.0                               rust-cra
 icu_properties_data                 2.3.0                               rust-crate                       
 icu_provider                        2.3.1                               rust-crate                       
 idna                                1.1.0                               rust-crate                       
-idna                                3.18                                python                           
-idna                                3.20                                python                           
+idna                                3.20                                python          (+1 duplicate)   
 idna_adapter                        1.2.2                               rust-crate                       
 imagemagick                         8:6.9.12.98+dfsg1-5.2build2         deb                              
 imagemagick-6-common                8:6.9.12.98+dfsg1-5.2build2         deb                              
@@ -270,7 +269,7 @@ levenshtein                         0.27.5                              python
 libXau                              1.0.9-3.el8                         rpm                              
 libacl1                             2.3.2-1build1.1                     deb                              
 libaom3                             3.8.2-2ubuntu0.2                    deb                              
-libapt-pkg6.0t64                    2.8.3                               deb                              
+libapt-pkg6.0t64                    2.8.4ubuntu0.1                      deb                              
 libasound2-data                     1.2.11-1ubuntu0.3                   deb                              
 libasound2t64                       1.2.11-1ubuntu0.3                   deb                              
 libassuan0                          2.5.6-1build1                       deb                              
@@ -363,7 +362,7 @@ libpam-modules-bin                  1.5.3-5ubuntu5.7                    deb
 libpam-runtime                      1.5.3-5ubuntu5.7                    deb                              
 libpam0g                            1.5.3-5ubuntu5.7                    deb                              
 libpaper1                           1.1.29build1                        deb                              
-libpcre2-8-0                        10.42-4ubuntu2.1                    deb                              
+libpcre2-8-0                        10.42-4ubuntu2.2                    deb                              
 libpng16-16t64                      1.6.43-5ubuntu0.7                   deb                              
 libproc2-0                          2:4.0.4-4ubuntu3.3                  deb                              
 libpsl5t64                          0.21.2-1.1build1                    deb                              
@@ -385,7 +384,7 @@ libsepol2                           3.5-2build1                         deb
 libsharpyuv0                        1.3.2-0.4build3                     deb                              
 libsm6                              2:1.2.3-1build3                     deb                              
 libsmartcols1                       2.39.3-9ubuntu6.6                   deb                              
-libsqlite3-0                        3.45.1-1ubuntu2.8                   deb                              
+libsqlite3-0                        3.45.1-1ubuntu2.9                   deb                              
 libss2                              1.47.0-2.4~exp1ubuntu4.1            deb                              
 libssh-4                            0.10.6-2ubuntu0.5                   deb                              
 libssl3t64                          3.0.13-0ubuntu3.16                  deb                              
@@ -437,7 +436,7 @@ miniz_oxide                         0.9.1                               rust-cra
 mio                                 1.2.4                               rust-crate                       
 more-itertools                      10.8.0                              python                           
 mount                               2.39.3-9ubuntu6.6                   deb                              
-msgpack                             1.1.2                               python                           
+msgpack                             1.2.4                               python                           
 multivolumefile                     0.2.3                               python                           
 mutagen                             1.48.1                              python                           
 natsort                             8.4.0                               python                           
@@ -461,8 +460,7 @@ opentelemetry-api                   1.45.2                              python
 option-ext                          0.2.0                               rust-crate                       
 ordered-set                         4.1.0                               python                           
 outcome                             1.3.0.post0                         python                           
-packaging                           26.2                                python                           
-packaging                           26.3                                python          (+1 duplicate)   
+packaging                           26.3                                python          (+2 duplicates)  
 passwd                              1:4.13+dfsg1-4ubuntu3.2             deb                              
 pem                                 3.0.6                               rust-crate                       
 percent-encoding                    2.3.2                               rust-crate                       
@@ -470,10 +468,10 @@ perl-base                           5.38.2-3.2ubuntu0.6                 deb
 pillow                              13.0.0                              python          (+1 duplicate)   
 pin-project-lite                    0.2.17                              rust-crate                       
 pinentry-curses                     1.2.1-3ubuntu5                      deb                              
-pip                                 26.2.2                              python                           
+pip                                 26.3                                python                           
 pip                                 UNKNOWN                             UnknownPackage                   
 pkg-config                          0.3.34                              rust-crate                       
-platformdirs                        4.10.0                              python                           
+platformdirs                        4.12.4                              python                           
 platformdirs                        4.4.0                               python                           
 poppler-data                        0.4.12-1                            deb                              
 portable-atomic                     1.15.0                              rust-crate                       
@@ -494,16 +492,15 @@ pybcj                               1.0.8                               python
 pybind11                            UNKNOWN                             python                           
 pycountry                           22.3.5                              python                           
 pycparser                           3.12                                python                           
-pycryptodomex                       3.24.1                              python                           
+pycryptodomex                       3.24.2                              python                           
 pydrive2                            1.21.3                              python                           
-pygments                            2.20.0                              python                           
-pygments                            2.21.0                              python                           
+pygments                            2.21.0                              python          (+1 duplicate)   
 pylatexenc                          2.11                                python                           
 pyopenssl                           24.2.1                              python                           
 pyparsing                           3.3.3                               python                           
 pypdf                               6.10.2                              python                           
 pyppmd                              1.1.1                               python                           
-pyproject-hooks                     1.2.0                               python                           
+pyproject-hooks                     1.3.3                               python                           
 pysocks                             1.7.1                               python                           
 python-dateutil                     2.9.0.post0                         python                           
 python-dotenv                       1.2.4                               python                           
@@ -549,7 +546,7 @@ requests-oauthlib                   2.0.0                               python
 reqwest                             0.12.28                             rust-crate                       
 reqwest                             0.13.5                              rust-crate                       
 resolvelib                          1.2.1                               python                           
-rich                                14.2.0                              python                           
+rich                                15.0.0                              python                           
 ring                                0.17.14                             rust-crate                       
 roman-numerals                      4.1.0                               python                           
 rpds-py                             2026.9.1                            python                           
@@ -604,7 +601,7 @@ sniffio                             1.3.1                               python
 snowballstemmer                     3.1.1                               python                           
 socket2                             0.6.5                               rust-crate                       
 sortedcontainers                    2.4.0                               python                           
-soupsieve                           3.0.4                               python                           
+soupsieve                           4.0.1                               python                           
 sphinx                              9.1.1                               python                           
 sphinx-rtd-theme                    3.1.0                               python                           
 sphinxcontrib-applehelp             2.0.0                               python                           
@@ -615,9 +612,9 @@ sphinxcontrib-jsmath                2.0.0                               python
 sphinxcontrib-qthelp                2.0.0                               python                           
 sphinxcontrib-serializinghtml       2.0.0                               python                           
 spki                                0.7.3                               rust-crate                       
-sqlalchemy                          2.0.55                              python                           
+sqlalchemy                          2.0.57                              python                           
 sqlalchemy-utils                    0.42.1                              python                           
-sqlite3                             3.45.1-1ubuntu2.8                   deb                              
+sqlite3                             3.45.1-1ubuntu2.9                   deb                              
 stable_deref_trait                  1.2.1                               rust-crate                       
 stdlib                              go1.17.8                            go-module                        
 strsim                              0.11.1                              rust-crate                       
@@ -649,8 +646,8 @@ toml                                1.1.6+spec-1.1.0                    rust-cra
 toml_datetime                       1.1.1+spec-1.1.0                    rust-crate                       
 toml_parser                         1.1.3+spec-1.1.0                    rust-crate                       
 toml_writer                         1.1.2+spec-1.1.0                    rust-crate                       
+tomli                               2.3.2                               python                           
 tomli                               2.4.0                               python                           
-tomli                               2.4.1                               python                           
 tomli-w                             1.2.0                               python                           
 tornado                             6.5.10                              python                           
 tower                               0.5.3                               rust-crate                       
@@ -661,7 +658,7 @@ tracing                             0.1.44                              rust-cra
 tracing-core                        0.1.36                              rust-crate                       
 trio                                0.35.0                              python                           
 trio-websocket                      0.12.2                              python                           
-truststore                          0.10.4                              python                           
+truststore                          0.10.5                              python                           
 try-lock                            0.2.5                               rust-crate                       
 typed-path                          0.12.3                              rust-crate                       
 typenum                             1.20.1                              rust-crate                       
@@ -677,8 +674,7 @@ unminimize                          0.2.1                               deb
 untrusted                           0.9.0                               rust-crate                       
 uritemplate                         4.2.0                               python                           
 url                                 2.5.8                               rust-crate                       
-urllib3                             2.7.0                               python                           
-urllib3                             2.8.0                               python                           
+urllib3                             2.8.0                               python          (+1 duplicate)   
 urlobject                           3.0.0                               python                           
 utf8_iter                           1.0.4                               rust-crate                       
 utf8parse                           0.2.2                               rust-crate                       
